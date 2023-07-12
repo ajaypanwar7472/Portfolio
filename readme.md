@@ -4,7 +4,7 @@
 </h1>
 
 
-  <img title="Portfolio" src="images/preview.png" alt="Portfolio" width="700" />
+  <img title="Portfolio" src="images/preview.png" alt="Portfolio"/>
 
 ## 🛠 Built With 
 
